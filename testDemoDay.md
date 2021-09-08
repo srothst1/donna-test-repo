@@ -1,1 +1,6 @@
-TODO: create a new list
+TODO: Assign a new list
+
+
+- list 
+- oranges
+- peaches
