@@ -1,1 +1,2 @@
-TODO: create a new list
+TODO: Assign a new list
+TODO #2
